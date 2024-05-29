@@ -14,7 +14,7 @@
         
         body {
             font-family: Arial, sans-serif;
-            background: url('Background image.jpg') no-repeat center center fixed;
+            background: url('https://username.github.io/Background%20image.jpg') no-repeat center center fixed;
             background-size: cover;
             color: #f4f4f4;
             line-height: 1.6;
@@ -149,7 +149,7 @@
         <!-- About Me section -->
         <section id="about" class="about-me">
             <h2>About Me</h2>
-            <img src="https://https://github.com/TobyWilliams0924/TobyWilliams0924.github.io/blob/main/ProfilePic.jpg" alt="Toby Williams">
+            <img src="https://Tobywilliams0924.github.io/ProfilePic.jpg" alt="Toby Williams">
             <p>
                 Hi, I'm Toby Williams. I'm 30 years old and diving headfirst into the exciting world of cybersecurity. My interest in this field dates back to high school, where I got into a bit of trouble for tinkering with computers. I used to change root passwords on my friends' machines and disable the website blocks that were put in place. Those early adventures sparked a deep curiosity and passion for understanding and securing digital environments.
             </p>
@@ -177,7 +177,7 @@
 
     <!-- Footer with contact information -->
     <footer>
-        <p>Contact me at <a href="mailto:toby.williams@example.com">toby.williams@example.com</a></p>
+        <p>Contact me at <a href="mailto:toby.williams0924@gmail.com">toby.williams0924@gmail.com</a></p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/tobywilliams0924/" target="_blank">linkedin.com/in/tobywilliams0924</a></p>
         <p>Download my resume <a href="https://docs.google.com/document/d/1YLgS4WN_VnQpkX7N4kofu2EBBWoMq29D-HdfOHz5pIw/edit?usp=sharing" target="_blank">here</a>.</p>
         <p>&copy; 2024 Toby Williams</p>
