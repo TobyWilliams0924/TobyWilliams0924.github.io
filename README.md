@@ -91,10 +91,41 @@
 
             nav a {
                 font-size: 1em;
+                display: block;
+                margin: 5px 0;
             }
 
             .container {
                 width: 95%;
+                padding: 10px;
+            }
+
+            .about-me img {
+                width: 80%;
+                margin: 10px auto;
+            }
+
+            section h2 {
+                font-size: 1.5em;
+            }
+
+            footer p {
+                font-size: 0.9em;
+            }
+        }
+
+        /* Tablet support */
+        @media (min-width: 601px) and (max-width: 1024px) {
+            header h1 {
+                font-size: 2.5em;
+            }
+
+            nav a {
+                font-size: 1.1em;
+            }
+
+            .container {
+                width: 90%;
             }
         }
     </style>
