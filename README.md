@@ -134,7 +134,10 @@
     <!-- Header section with title -->
     <header>
         <h1>Toby Williams</h1>
-        <p>Cybersecurity Enthusiast & Ethical Hacker</p>
+        <p>Cybersecurity Enthusiast & Ethical Hacker</p> 
+         <p>Guardian of the digital realm, I test defenses and fortify your future.</p>
+    </header>
+
     </header>
 
     <!-- Navigation bar -->
