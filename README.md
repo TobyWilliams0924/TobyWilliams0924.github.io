@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -143,8 +143,6 @@
         <a href="#resume">Resume</a>
         <a href="#certifications">Certifications</a>
         <a href="#projects">Projects</a>
-        <a href="#case-studies">Case Studies</a>
-        <a href="#blog">Blog</a>
         <a href="#skills">Skills</a>
         <a href="#contact">Contact</a>
     </nav>
@@ -191,31 +189,6 @@
                 <p><strong>Lessons Learned:</strong> Description of the lessons learned.</p>
             </article>
             <p>Check out my other projects on <a href="https://drive.google.com/drive/folders/1VHw46pUQcUIq6zp8vGoy06vdoLL3Kzbf?usp=sharing" target="_blank">Google Drive</a>.</p>
-        </section>
-
-        <!-- Case Studies section -->
-        <section id="case-studies" class="case-studies">
-            <h2>Case Studies</h2>
-            <article>
-                <h3>Case Study Title 1</h3>
-                <p><strong>Background:</strong> Description of the background.</p>
-                <p><strong>Approach:</strong> Description of the approach.</p>
-                <p><strong>Findings:</strong> Description of the findings.</p>
-                <p><strong>Recommendations:</strong> Description of the recommendations.</p>
-                <p><strong>Impact:</strong> Description of the impact.</p>
-            </article>
-            <!-- Add more case studies as needed -->
-        </section>
-
-        <!-- Blog section -->
-        <section id="blog" class="blog">
-            <h2>Blog</h2>
-            <article>
-                <h3>Blog Post Title 1</h3>
-                <p>Excerpt from the blog post...</p>
-                <p><a href="#">Read more</a></p>
-            </article>
-            <!-- Add more blog posts as needed -->
         </section>
 
         <!-- Skills and Tools section -->
