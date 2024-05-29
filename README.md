@@ -149,7 +149,7 @@
         <!-- About Me section -->
         <section id="about" class="about-me">
             <h2>About Me</h2>
-            <img src="ProfilePic.jpg" alt="Toby Williams">
+            <img src="https://https://github.com/TobyWilliams0924/TobyWilliams0924.github.io/blob/main/ProfilePic" alt="Toby Williams">
             <p>
                 Hi, I'm Toby Williams. I'm 30 years old and diving headfirst into the exciting world of cybersecurity. My interest in this field dates back to high school, where I got into a bit of trouble for tinkering with computers. I used to change root passwords on my friends' machines and disable the website blocks that were put in place. Those early adventures sparked a deep curiosity and passion for understanding and securing digital environments.
             </p>
