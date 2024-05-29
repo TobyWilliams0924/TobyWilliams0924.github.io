@@ -14,16 +14,16 @@
         
         body {
             font-family: Arial, sans-serif;
-            background-color: #1a1a1a;
+            background: url('Background image.jpg') no-repeat center center fixed;
+            background-size: cover;
             color: #f4f4f4;
             line-height: 1.6;
         }
 
         header {
-            background: url('Background image.jpg') no-repeat center center/cover;
-            color: #fff;
             text-align: center;
             padding: 50px 0;
+            background-color: rgba(0, 0, 0, 0.5);
         }
 
         header h1 {
@@ -33,7 +33,7 @@
         }
 
         nav {
-            background-color: #333;
+            background-color: rgba(51, 51, 51, 0.9);
             padding: 10px 0;
             text-align: center;
         }
@@ -48,14 +48,14 @@
         .container {
             width: 80%;
             margin: 20px auto;
+            background-color: rgba(42, 42, 42, 0.9);
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
         }
 
         section {
-            background-color: #2a2a2a;
-            padding: 20px;
             margin-bottom: 20px;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
         }
 
         section h2 {
@@ -69,12 +69,13 @@
             height: auto;
             border-radius: 50%;
             margin: 10px 0;
+            display: block;
         }
 
         footer {
             text-align: center;
             padding: 20px 0;
-            background-color: #333;
+            background-color: rgba(51, 51, 51, 0.9);
             color: #fff;
         }
 
@@ -99,7 +100,7 @@
     </style>
 </head>
 <body>
-    <!-- Header section with background image and title -->
+    <!-- Header section with title -->
     <header>
         <h1>Toby Williams</h1>
         <p>Cybersecurity Enthusiast & Ethical Hacker</p>
@@ -117,7 +118,7 @@
         <!-- About Me section -->
         <section id="about" class="about-me">
             <h2>About Me</h2>
-            <img src="ProfilePic" alt="Toby Williams">
+            <img src="ProfilePic.jpg" alt="Toby Williams">
             <p>
                 Hi, I'm Toby Williams. I'm 30 years old and diving headfirst into the exciting world of cybersecurity. My interest in this field dates back to high school, where I got into a bit of trouble for tinkering with computers. I used to change root passwords on my friends' machines and disable the website blocks that were put in place. Those early adventures sparked a deep curiosity and passion for understanding and securing digital environments.
             </p>
@@ -145,7 +146,7 @@
 
     <!-- Footer with contact information -->
     <footer>
-        <p>Contact me at <a href="mailto:toby.williams0924@gmail.com">toby.williams0924@gmail.com</a></p>
+        <p>Contact me at <a href="mailto:toby.williams@example.com">toby.williams@example.com</a></p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/tobywilliams0924/" target="_blank">linkedin.com/in/tobywilliams0924</a></p>
         <p>Download my resume <a href="https://docs.google.com/document/d/1YLgS4WN_VnQpkX7N4kofu2EBBWoMq29D-HdfOHz5pIw/edit?usp=sharing" target="_blank">here</a>.</p>
         <p>&copy; 2024 Toby Williams</p>
