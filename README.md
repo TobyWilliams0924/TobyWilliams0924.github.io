@@ -14,7 +14,7 @@
         
         body {
             font-family: Arial, sans-serif;
-            background: url('https://username.github.io/Background%20image.jpg') no-repeat center center fixed;
+            background: url('https://github.com/TobyWilliams0924/TobyWilliams0924.github.io/blob/main/Background%20image.jpg') no-repeat center center fixed;
             background-size: cover;
             color: #f4f4f4;
             line-height: 1.6;
