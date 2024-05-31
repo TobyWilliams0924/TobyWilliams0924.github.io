@@ -1,143 +1,17 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Toby Williams - Cybersecurity Portfolio</title>
-    <style>
-        /* Reset some default browser styles */
-        body, h1, h2, p, ul {
-            margin: 0;
-            padding: 0;
-            list-style: none;
-        }
-        
-        body {
-            font-family: Arial, sans-serif;
-            background: url('https://Tobywilliams0924.github.io/Background%20image.jpg') no-repeat center center fixed;
-            background-size: cover;
-            color: #f4f4f4;
-            line-height: 1.6;
-        }
-
-        header {
-            text-align: center;
-            padding: 50px 0;
-            background-color: rgba(0, 0, 0, 0.5);
-        }
-
-        header h1 {
-            font-size: 3em;
-            margin: 0;
-            color: #e6e6e6;
-        }
-
-        nav {
-            background-color: rgba(51, 51, 51, 0.9);
-            padding: 10px 0;
-            text-align: center;
-        }
-
-        nav a {
-            color: #f4f4f4;
-            margin: 0 15px;
-            text-decoration: none;
-            font-size: 1.2em;
-        }
-
-        .container {
-            width: 80%;
-            margin: 20px auto;
-            background-color: rgba(42, 42, 42, 0.9);
-            padding: 20px;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-        }
-
-        section {
-            margin-bottom: 20px;
-        }
-
-        section h2 {
-            border-bottom: 2px solid #555;
-            padding-bottom: 10px;
-            color: #00ccff; /* Blue tone from the image */
-        }
-
-        .about-me img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 50%;
-            margin: 10px 0;
-            display: block;
-        }
-
-        footer {
-            text-align: center;
-            padding: 20px 0;
-            background-color: rgba(51, 51, 51, 0.9);
-            color: #fff;
-        }
-
-        a {
-            color: #00ccff; /* Blue tone from the image */
-        }
-
-        /* Additional styles for small screens */
-        @media (max-width: 600px) {
-            header h1 {
-                font-size: 2em;
-            }
-
-            nav a {
-                font-size: 1em;
-                display: block;
-                margin: 5px 0;
-            }
-
-            .container {
-                width: 95%;
-                padding: 10px;
-            }
-
-            .about-me img {
-                width: 80%;
-                margin: 10px auto;
-            }
-
-            section h2 {
-                font-size: 1.5em;
-            }
-
-            footer p {
-                font-size: 0.9em;
-            }
-        }
-
-        /* Tablet support */
-        @media (min-width: 601px) and (max-width: 1024px) {
-            header h1 {
-                font-size: 2.5em;
-            }
-
-            nav a {
-                font-size: 1.1em;
-            }
-
-            .container {
-                width: 90%;
-            }
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <!-- Header section with title -->
     <header>
         <h1>Toby Williams</h1>
-        <p>Cybersecurity Enthusiast & Ethical Hacker</p> 
-         <p>Guardian of the digital realm, I test defenses and fortify your future.</p>
-    </header>
-
+        <p>Cybersecurity Enthusiast & Ethical Hacker</p>
+        <p>Guardians of the digital realm, we test defenses and fortify your future.</p>
     </header>
 
     <!-- Navigation bar -->
@@ -213,5 +87,7 @@
     <footer>
         <p>&copy; 2024 Toby Williams</p>
     </footer>
+
+    <script src="scripts.js"></script>
 </body>
 </html>
