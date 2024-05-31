@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Toby Williams - Cybersecurity Portfolio</title>
     <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <!-- Header section with title -->
@@ -17,10 +18,9 @@
     <!-- Navigation bar -->
     <nav>
         <a href="#about">About Me</a>
-        <a href="#resume">Resume</a>
-        <a href="#certifications">Certifications</a>
-        <a href="#projects">Projects</a>
         <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#certifications">Certifications</a>
         <a href="#contact">Contact</a>
     </nav>
 
@@ -38,10 +38,25 @@
             </p>
         </section>
 
-        <!-- Resume section -->
-        <section id="resume">
-            <h2>Resume</h2>
-            <p><a href="https://docs.google.com/document/d/1YLgS4WN_VnQpkX7N4kofu2EBBWoMq29D-HdfOHz5pIw/edit?usp=sharing" target="_blank">View my resume</a></p>
+        <!-- Skills and Tools section -->
+        <section id="skills" class="skills">
+            <h2>Skills and Tools</h2>
+            <p><strong>Skills:</strong> Penetration testing, vulnerability assessment, network security, ethical hacking</p>
+            <p><strong>Tools:</strong> Nmap, Wireshark, Metasploit, Burp Suite</p>
+        </section>
+
+        <!-- Projects section -->
+        <section id="projects" class="projects">
+            <h2>Projects</h2>
+            <article>
+                <h3>Network Vulnerability Assessment</h3>
+                <p><strong>Objective:</strong> Conducted a comprehensive network vulnerability assessment for a small business.</p>
+                <p><strong>Tools and Technologies Used:</strong> Nmap, Nessus, Metasploit</p>
+                <p><strong>Methodology:</strong> Scanned the network to identify open ports, services, and vulnerabilities. Exploited identified vulnerabilities to assess the impact and provide recommendations.</p>
+                <p><strong>Outcome/Results:</strong> Identified and mitigated critical vulnerabilities, significantly improving the network's security posture.</p>
+                <p><strong>Lessons Learned:</strong> Gained experience in network scanning, vulnerability assessment, and remediation strategies.</p>
+            </article>
+            <p>Check out my other projects on <a href="https://drive.google.com/drive/folders/1VHw46pUQcUIq6zp8vGoy06vdoLL3Kzbf?usp=sharing" target="_blank">Google Drive</a>.</p>
         </section>
 
         <!-- Certifications section -->
@@ -49,30 +64,8 @@
             <h2>Certifications</h2>
             <ul>
                 <li><a href="https://coursera.org/share/932a5bb68ab010aea6c0c96b84874c00" target="_blank">Coursera: Introduction to Cyber Security</a></li>
-                <li>Certification 2: Description</li>
-                <li>Certification 3: Description</li>
+                <li>Google Cybersecurity Professional Certificate</li>
             </ul>
-        </section>
-
-        <!-- Projects section -->
-        <section id="projects" class="projects">
-            <h2>Projects</h2>
-            <article>
-                <h3>Project Title 1</h3>
-                <p><strong>Objective:</strong> Description of the project objective.</p>
-                <p><strong>Tools and Technologies Used:</strong> List of tools.</p>
-                <p><strong>Methodology:</strong> Description of the methodology.</p>
-                <p><strong>Outcome/Results:</strong> Description of the outcome.</p>
-                <p><strong>Lessons Learned:</strong> Description of the lessons learned.</p>
-            </article>
-            <p>Check out my other projects on <a href="https://drive.google.com/drive/folders/1VHw46pUQcUIq6zp8vGoy06vdoLL3Kzbf?usp=sharing" target="_blank">Google Drive</a>.</p>
-        </section>
-
-        <!-- Skills and Tools section -->
-        <section id="skills" class="skills">
-            <h2>Skills and Tools</h2>
-            <p><strong>Skills:</strong> Penetration testing, vulnerability assessment, network security...</p>
-            <p><strong>Tools:</strong> Nmap, Wireshark, Metasploit, Burp Suite...</p>
         </section>
 
         <!-- Contact section -->
@@ -85,7 +78,7 @@
 
     <!-- Footer with contact information -->
     <footer>
-        <p>&copy; 2024 Toby Williams</p>
+        <p>&copy; 2024 Toby Williams | <a href="https://docs.google.com/document/d/1YLgS4WN_VnQpkX7N4kofu2EBBWoMq29D-HdfOHz5pIw/edit?usp=sharing" target="_blank">Download my resume</a></p>
     </footer>
 
     <script src="scripts.js"></script>
