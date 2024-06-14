@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects - Toby Williams</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation bar -->
+    <nav>
+        <a href="index.html">About Me</a>
+        <a href="projects.html">Projects</a>
+        <a href="skills-certifications.html">Skills & Certifications</a>
+        <a href="testimonials-contact.html">Testimonials & Contact</a>
+    </nav>
+
+    <!-- Main content container -->
+    <div class="container">
+        <!-- Projects section -->
+        <section id="projects" class="projects">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>Incident Handler’s Journal (Coming Soon)</h3>
+                <img src="https://via.placeholder.com/600x400" alt="Incident Handler’s Journal Preview" class="project-preview">
+                <p>This project will be available soon. Stay tuned for updates!</p>
+            </div>
+            <div class="project">
+                <h3>TryHackMe Journal</h3>
+                <img src="https://drive.google.com/thumbnail?id=1dAaYc-4xlM-TfkY1SJ7eXSvWQPZTzFEMU5cXg_fQGHc" alt="TryHackMe Journal Preview" class="project-preview">
+                <p>Check out my <a href="https://docs.google.com/document/d/1dAaYc-4xlM-TfkY1SJ7eXSvWQPZTzFEMU5cXg_fQGHc/edit?usp=sharing" target="_blank">TryHackMe Journal</a> for detailed insights and learnings.</p>
+            </div>
+            <div class="project">
+                <h3>Vulnerable System Analysis</h3>
+                <img src="https://drive.google.com/thumbnail?id=1TSEaxS9sJCaEW4EIG3uNEImV9estPdGi1pKNHjBOz9Y" alt="Vulnerable System Analysis Preview" class="project-preview">
+                <p>Check out my <a href="https://docs.google.com/document/d/1TSEaxS9sJCaEW4EIG3uNEImV9estPdGi1pKNHjBOz9Y/edit?usp=sharing" target="_blank">Vulnerable System Analysis</a> for detailed insights and learnings.</p>
+            </div>
+            <div class="project">
+                <h3>SQL Query</h3>
+                <img src="https://drive.google.com/thumbnail?id=1Ubc8Slf7SSXOmoTd7svduXg-ZZy64KYuUQPVNtmPvfk" alt="SQL Query Preview" class="project-preview">
+                <p>Check out my <a href="https://docs.google.com/document/d/1Ubc8Slf7SSXOmoTd7svduXg-ZZy64KYuUQPVNtmPvfk/edit?usp=sharing" target="_blank">SQL Query</a> for detailed insights and learnings.</p>
+            </div>
+            <div class="project">
+                <h3>Security Audit</h3>
+                <img src="https://drive.google.com/thumbnail?id=1r72G8xu-fRry3lSKBXHV5gfcX1nsaZ2GRu9pvX8LeoE" alt="Security Audit Preview" class="project-preview">
+                <p>Check out my <a href="https://docs.google.com/document/d/1r72G8xu-fRry3lSKBXHV5gfcX1nsaZ2GRu9pvX8LeoE/edit?usp=sharing" target="_blank">Security Audit</a> for detailed insights and learnings.</p>
+            </div>
+            <div class="project">
+                <h3>Cyber Incident Report</h3>
+                <img src="https://drive.google.com/thumbnail?id=10R3I7x1W5js9vq7dIdmZhro7l9IyrZonhAsDcAuqoHw" alt="Cyber Incident Report Preview" class="project-preview">
+                <p>Check out my <a href="https://docs.google.com/document/d/10R3I7x1W5js9vq7dIdmZhro7l9IyrZonhAsDcAuqoHw/edit?usp=sharing" target="_blank">Cyber Incident Report</a> for detailed insights and learnings.</p>
+            </div>
+        </section>
+    </div>
+
+    <!-- Footer with contact information -->
+    <footer>
+        <p>&copy; 2024 Toby Williams | <a href="https://docs.google.com/document/d/1YLgS4WN_VnQpkX7N4kofu2EBBWoMq29D-HdfOHz5pIw/edit?usp=sharing" target="_blank">Download my resume</a></p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
