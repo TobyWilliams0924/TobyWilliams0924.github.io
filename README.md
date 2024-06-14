@@ -51,12 +51,13 @@
             </ul>
         </section>
 
-        <!-- Modal Windows -->
+        <!-- Modal Windows for Projects -->
         <div id="modal1" class="modal">
             <div class="modal-content">
                 <span class="close" data-modal="modal1">&times;</span>
                 <h2>Incident Handler’s Journal (Coming Soon)</h2>
                 <p>This project will be available soon. Stay tuned for updates!</p>
+                <img src="https://via.placeholder.com/600x400" alt="Incident Handler’s Journal Preview" class="modal-image">
             </div>
         </div>
 
@@ -65,6 +66,7 @@
                 <span class="close" data-modal="modal2">&times;</span>
                 <h2>TryHackMe Journal</h2>
                 <p>Check out my <a href="https://docs.google.com/document/d/1dAaYc-4xlM-TfkY1SJ7eXSvWQPZTzFEMU5cXg_fQGHc/edit?usp=sharing" target="_blank">TryHackMe Journal</a> for detailed insights and learnings.</p>
+                <img src="https://drive.google.com/thumbnail?id=1dAaYc-4xlM-TfkY1SJ7eXSvWQPZTzFEMU5cXg_fQGHc" alt="TryHackMe Journal Preview" class="modal-image">
             </div>
         </div>
 
@@ -73,6 +75,7 @@
                 <span class="close" data-modal="modal3">&times;</span>
                 <h2>Vulnerable System Analysis</h2>
                 <p>Check out my <a href="https://docs.google.com/document/d/1TSEaxS9sJCaEW4EIG3uNEImV9estPdGi1pKNHjBOz9Y/edit?usp=sharing" target="_blank">Vulnerable System Analysis</a> for detailed insights and learnings.</p>
+                <img src="https://drive.google.com/thumbnail?id=1TSEaxS9sJCaEW4EIG3uNEImV9estPdGi1pKNHjBOz9Y" alt="Vulnerable System Analysis Preview" class="modal-image">
             </div>
         </div>
 
@@ -81,6 +84,7 @@
                 <span class="close" data-modal="modal4">&times;</span>
                 <h2>SQL Query</h2>
                 <p>Check out my <a href="https://docs.google.com/document/d/1Ubc8Slf7SSXOmoTd7svduXg-ZZy64KYuUQPVNtmPvfk/edit?usp=sharing" target="_blank">SQL Query</a> for detailed insights and learnings.</p>
+                <img src="https://drive.google.com/thumbnail?id=1Ubc8Slf7SSXOmoTd7svduXg-ZZy64KYuUQPVNtmPvfk" alt="SQL Query Preview" class="modal-image">
             </div>
         </div>
 
@@ -89,6 +93,7 @@
                 <span class="close" data-modal="modal5">&times;</span>
                 <h2>Security Audit</h2>
                 <p>Check out my <a href="https://docs.google.com/document/d/1r72G8xu-fRry3lSKBXHV5gfcX1nsaZ2GRu9pvX8LeoE/edit?usp=sharing" target="_blank">Security Audit</a> for detailed insights and learnings.</p>
+                <img src="https://drive.google.com/thumbnail?id=1r72G8xu-fRry3lSKBXHV5gfcX1nsaZ2GRu9pvX8LeoE" alt="Security Audit Preview" class="modal-image">
             </div>
         </div>
 
@@ -97,6 +102,7 @@
                 <span class="close" data-modal="modal6">&times;</span>
                 <h2>Cyber Incident Report</h2>
                 <p>Check out my <a href="https://docs.google.com/document/d/10R3I7x1W5js9vq7dIdmZhro7l9IyrZonhAsDcAuqoHw/edit?usp=sharing" target="_blank">Cyber Incident Report</a> for detailed insights and learnings.</p>
+                <img src="https://drive.google.com/thumbnail?id=10R3I7x1W5js9vq7dIdmZhro7l9IyrZonhAsDcAuqoHw" alt="Cyber Incident Report Preview" class="modal-image">
             </div>
         </div>
 
@@ -104,15 +110,64 @@
         <section id="certifications" class="certifications">
             <h2>Certifications</h2>
             <ul>
-                <li><a href="https://coursera.org/share/d74a2b9b5d8a83b0aef6358a229aaa36" target="_blank">Coursera: Foundations of Cybersecurity</a></li>
-                <li><a href="https://coursera.org/share/845fb3102af41df9396903f67b6ceff9" target="_blank">Coursera: Play It Safe: Manage Security Risks</a></li>
-                <li><a href="https://coursera.org/share/932a5bb68ab010aea6c0c96b84874c00" target="_blank">Coursera: Connect and Protect: Networks and Network Security</a></li>
-                <li><a href="https://coursera.org/share/d74a2b9b5d8a83b0aef6358a229aaa36" target="_blank">Coursera: Tools of the Trade: Linux and SQL</a></li>
-                <li><a href="https://coursera.org/share/7b826aad299ea609c085e2efd8b094d6" target="_blank">Coursera: Assets, Threats, and Vulnerabilities</a></li>
-                <li><a href="https://coursera.org/share/a99a81c87b8419f4b6d1ef6b5606b7de" target="_blank">Coursera: SQL Joins</a></li>
+                <li><a href="#cert1" class="modal-link" data-modal="modal7">Coursera: Foundations of Cybersecurity</a></li>
+                <li><a href="#cert2" class="modal-link" data-modal="modal8">Coursera: Play It Safe: Manage Security Risks</a></li>
+                <li><a href="#cert3" class="modal-link" data-modal="modal9">Coursera: Connect and Protect: Networks and Network Security</a></li>
+                <li><a href="#cert4" class="modal-link" data-modal="modal10">Coursera: Tools of the Trade: Linux and SQL</a></li>
+                <li><a href="#cert5" class="modal-link" data-modal="modal11">Coursera: Assets, Threats, and Vulnerabilities</a></li>
+                <li><a href="#cert6" class="modal-link" data-modal="modal12">Coursera: SQL Joins</a></li>
                 <li>Google Cybersecurity Professional Certificate</li>
             </ul>
         </section>
+
+        <!-- Modal Windows for Certifications -->
+        <div id="modal7" class="modal">
+            <div class="modal-content">
+                <span class="close" data-modal="modal7">&times;</span>
+                <h2>Coursera: Foundations of Cybersecurity</h2>
+                <iframe src="https://coursera.org/share/d74a2b9b5d8a83b0aef6358a229aaa36" width="100%" height="400px"></iframe>
+            </div>
+        </div>
+
+        <div id="modal8" class="modal">
+            <div class="modal-content">
+                <span class="close" data-modal="modal8">&times;</span>
+                <h2>Coursera: Play It Safe: Manage Security Risks</h2>
+                <iframe src="https://coursera.org/share/845fb3102af41df9396903f67b6ceff9" width="100%" height="400px"></iframe>
+            </div>
+        </div>
+
+        <div id="modal9" class="modal">
+            <div class="modal-content">
+                <span class="close" data-modal="modal9">&times;</span>
+                <h2>Coursera: Connect and Protect: Networks and Network Security</h2>
+                <iframe src="https://coursera.org/share/932a5bb68ab010aea6c0c96b84874c00" width="100%" height="400px"></iframe>
+            </div>
+        </div>
+
+        <div id="modal10" class="modal">
+            <div class="modal-content">
+                <span class="close" data-modal="modal10">&times;</span>
+                <h2>Coursera: Tools of the Trade: Linux and SQL</h2>
+                <iframe src="https://coursera.org/share/d74a2b9b5d8a83b0aef6358a229aaa36" width="100%" height="400px"></iframe>
+            </div>
+        </div>
+
+        <div id="modal11" class="modal">
+            <div class="modal-content">
+                <span class="close" data-modal="modal11">&times;</span>
+                <h2>Coursera: Assets, Threats, and Vulnerabilities</h2>
+                <iframe src="https://coursera.org/share/7b826aad299ea609c085e2efd8b094d6" width="100%" height="400px"></iframe>
+            </div>
+        </div>
+
+        <div id="modal12" class="modal">
+            <div class="modal-content">
+                <span class="close" data-modal="modal12">&times;</span>
+                <h2>Coursera: SQL Joins</h2>
+                <iframe src="https://coursera.org/share/a99a81c87b8419f4b6d1ef6b5606b7de" width="100%" height="400px"></iframe>
+            </div>
+        </div>
 
         <!-- Contact section -->
         <section id="contact" class="contact">
