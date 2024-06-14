@@ -1,13 +1,22 @@
-document.addEventListener('DOMContentLoaded', function () {
-    // Smooth scrolling for navigation links
-    const links = document.querySelectorAll('nav a');
-    for (const link of links) {
-        link.addEventListener('click', function (event) {
-            event.preventDefault();
-            const targetId = this.getAttribute('href').substring(1);
-            document.getElementById(targetId).scrollIntoView({
-                behavior: 'smooth'
-            });
-        });
-    }
+document.addEventListener('DOMContentLoaded', function() {
+    const resumeLink = document.querySelector('footer a');
+    
+    resumeLink.addEventListener('mouseover', function() {
+        const starCount = 5;
+        for (let i = 0; i < starCount; i++) {
+            const star = document.createElement('div');
+            star.classList.add('star');
+            document.body.appendChild(star);
+            
+            const x = resumeLink.getBoundingClientRect().left + (Math.random() * resumeLink.clientWidth);
+            const y = resumeLink.getBoundingClientRect().top + (Math.random() * resumeLink.clientHeight);
+            
+            star.style.left = `${x}px`;
+            star.style.top = `${y}px`;
+            
+            setTimeout(() => {
+                star.remove();
+            }, 1000);
+        }
+    });
 });
