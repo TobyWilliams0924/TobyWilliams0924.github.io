@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -120,13 +120,13 @@
             <p>Email: <a href="mailto:Toby.Williams0924@gmail.com">Toby.Williams0924@gmail.com</a></p>
             <p>LinkedIn: <a href="https://www.linkedin.com/in/tobywilliams0924/" target="_blank">linkedin.com/in/tobywilliams0924</a></p>
         </section>
-
-        <!-- Footer with contact information -->
-        <footer>
-            <p>&copy; 2024 Toby Williams | <a href="https://docs.google.com/document/d/1YLgS4WN_VnQpkX7N4kofu2EBBWoMq29D-HdfOHz5pIw/edit?usp=sharing" target="_blank">Download my resume</a></p>
-        </footer>
-
-        <script src="scripts.js"></script>
     </div>
+
+    <!-- Footer with contact information -->
+    <footer>
+        <p>&copy; 2024 Toby Williams | <a href="https://docs.google.com/document/d/1YLgS4WN_VnQpkX7N4kofu2EBBWoMq29D-HdfOHz5pIw/edit?usp=sharing" target="_blank">Download my resume</a></p>
+    </footer>
+
+    <script src="scripts.js"></script>
 </body>
 </html>
