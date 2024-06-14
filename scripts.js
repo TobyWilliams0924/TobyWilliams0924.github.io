@@ -21,9 +21,10 @@ document.addEventListener('DOMContentLoaded', function() {
         contactForm.addEventListener('submit', function(event) {
             const name = document.getElementById('name').value;
             const email = document.getElementById('email').value;
+            const phone = document.getElementById('phone').value;
             const message = document.getElementById('message').value;
 
-            if (!name || !email || !message) {
+            if (!name || !email || !phone || !message) {
                 event.preventDefault();
                 alert('Please fill out all fields.');
             }
