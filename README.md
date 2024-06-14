@@ -33,8 +33,8 @@
         <!-- Skills and Tools section -->
         <section id="skills" class="skills">
             <h2>Skills and Tools</h2>
-            <p><strong>Skills:</strong> Penetration testing, vulnerability assessment, network security, ethical hacking</p>
-            <p><strong>Tools:</strong> Nmap, Wireshark, Metasploit, Burp Suite</p>
+            <p><strong>Skills:</strong> Penetration testing, vulnerability assessment, network security, ethical hacking, incident response, security risk management, SQL querying, network monitoring, and analysis.</p>
+            <p><strong>Tools:</strong> Nmap, Wireshark, Metasploit, Burp Suite, Nessus, Linux, SQL, Splunk, TryHackMe, and various cybersecurity frameworks and methodologies.</p>
         </section>
 
         <!-- Projects section -->
