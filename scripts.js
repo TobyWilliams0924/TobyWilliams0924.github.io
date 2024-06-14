@@ -19,4 +19,10 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     window.addEventListener('click', function(event) {
-        modals.for
+        modals.forEach(modal => {
+            if (event.target === modal) {
+                modal.style.display = 'none';
+            }
+        });
+    });
+});
