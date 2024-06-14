@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testimonials & Contact - Toby Williams</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation bar -->
+    <nav>
+        <a href="index.html">About Me</a>
+        <a href="projects.html">Projects</a>
+        <a href="skills-certifications.html">Skills & Certifications</a>
+        <a href="testimonials-contact.html">Testimonials & Contact</a>
+    </nav>
+
+    <!-- Main content container -->
+    <div class="container">
+        <!-- Testimonials section -->
+        <section id="testimonials" class="testimonials">
+            <h2>Testimonials</h2>
+            <!-- Add your testimonials here -->
+            <p>"Toby is a highly skilled and dedicated cybersecurity professional. His work ethic and attention to detail are unparalleled." - Jane Doe</p>
+        </section>
+
+        <!-- Contact section -->
+        <section id="contact" class="contact">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:Toby.Williams0924@gmail.com">Toby.Williams0924@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/tobywilliams0924/" target="_blank">linkedin.com/in/tobywilliams0924</a></p>
+        </section>
+    </div>
+
+    <!-- Footer with contact information -->
+    <footer>
+        <p>&copy; 2024 Toby Williams | <a href="https://docs.google.com/document/d/1YLgS4WN_VnQpkX7N4kofu2EBBWoMq29D-HdfOHz5pIw/edit?usp=sharing" target="_blank">Download my resume</a></p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
