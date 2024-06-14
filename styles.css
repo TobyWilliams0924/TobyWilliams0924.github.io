@@ -123,6 +123,17 @@ a {
     cursor: pointer;
 }
 
+.modal-image {
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+iframe {
+    border: none;
+    border-radius: 5px;
+}
+
 /* Additional styles for small screens */
 @media (max-width: 600px) {
     header h1 {
