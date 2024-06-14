@@ -3,18 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Toby Williams - Cybersecurity Portfolio</title>
+    <title>Toby Williams - Cybersecurity Professional</title>
     <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <!-- Header section with title -->
-    <header>
-        <h1>Toby Williams</h1>
-        <p>Cybersecurity Enthusiast & Ethical Hacker</p>
-        <p>Guardians of the digital realm, we test defenses and fortify your future.</p>
-    </header>
-
     <!-- Navigation bar -->
     <nav>
         <a href="#about">About Me</a>
@@ -48,15 +40,11 @@
         <!-- Projects section -->
         <section id="projects" class="projects">
             <h2>Projects</h2>
-            <article>
-                <h3>Network Vulnerability Assessment</h3>
-                <p><strong>Objective:</strong> Conducted a comprehensive network vulnerability assessment for a small business.</p>
-                <p><strong>Tools and Technologies Used:</strong> Nmap, Nessus, Metasploit</p>
-                <p><strong>Methodology:</strong> Scanned the network to identify open ports, services, and vulnerabilities. Exploited identified vulnerabilities to assess the impact and provide recommendations.</p>
-                <p><strong>Outcome/Results:</strong> Identified and mitigated critical vulnerabilities, significantly improving the network's security posture.</p>
-                <p><strong>Lessons Learned:</strong> Gained experience in network scanning, vulnerability assessment, and remediation strategies.</p>
-            </article>
-            <p>Check out my other projects on <a href="https://drive.google.com/drive/folders/1VHw46pUQcUIq6zp8vGoy06vdoLL3Kzbf?usp=sharing" target="_blank">Google Drive</a>.</p>
+            <p><a href="https://docs.google.com/document/d/1dAaYc-4xlM-TfkY1SJ7eXSvWQPZTzFEMU5cXg_fQGHc/edit?usp=sharing" target="_blank">Incident Handler’s Journal</a> (Coming Soon)</p>
+            <p><a href="https://docs.google.com/document/d/1TSEaxS9sJCaEW4EIG3uNEImV9estPdGi1pKNHjBOz9Y/edit?usp=sharing" target="_blank">Vulnerable System Analysis</a></p>
+            <p><a href="https://docs.google.com/document/d/1Ubc8Slf7SSXOmoTd7svduXg-ZZy64KYuUQPVNtmPvfk/edit?usp=sharing" target="_blank">SQL Query</a></p>
+            <p><a href="https://docs.google.com/document/d/1r72G8xu-fRry3lSKBXHV5gfcX1nsaZ2GRu9pvX8LeoE/edit?usp=sharing" target="_blank">Security Audit</a></p>
+            <p><a href="https://docs.google.com/document/d/10R3I7x1W5js9vq7dIdmZhro7l9IyrZonhAsDcAuqoHw/edit?usp=sharing" target="_blank">Cyber Incident Report</a></p>
         </section>
 
         <!-- Certifications section -->
