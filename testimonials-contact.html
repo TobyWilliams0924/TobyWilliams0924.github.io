@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <metacharset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Toby Williams - Testimonials and Contact">
+    <meta name="keywords" content="cybersecurity, testimonials, contact, Toby Williams">
     <title>Testimonials & Contact - Toby Williams</title>
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -27,10 +29,26 @@
         <!-- Contact section -->
         <section id="contact" class="contact">
             <h2>Contact</h2>
-            <p>Email: <a href="mailto:Toby.Williams0924@gmail.com">Toby.Williams0924@gmail.com</a></p>
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/tobywilliams0924/" target="_blank">linkedin.com/in/tobywilliams0924</a></p>
+            <form class="contact-form" action="mailto:Toby.Williams0924@gmail.com" method="post" enctype="text/plain">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="phone">Phone Number</label>
+                <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+
+                <label for="message">Message</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+
+                <button type="submit">Send</button>
+            </form>
         </section>
     </div>
+
+    <!-- Back to top button -->
+    <a href="#" class="back-to-top">↑</a>
 
     <!-- Footer with contact information -->
     <footer>
