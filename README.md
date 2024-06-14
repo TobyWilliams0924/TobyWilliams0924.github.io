@@ -100,7 +100,26 @@
             </div>
         </div>
 
-        <!-- Other sections... -->
+        <!-- Certifications section -->
+        <section id="certifications" class="certifications">
+            <h2>Certifications</h2>
+            <ul>
+                <li><a href="https://coursera.org/share/d74a2b9b5d8a83b0aef6358a229aaa36" target="_blank">Coursera: Foundations of Cybersecurity</a></li>
+                <li><a href="https://coursera.org/share/845fb3102af41df9396903f67b6ceff9" target="_blank">Coursera: Play It Safe: Manage Security Risks</a></li>
+                <li><a href="https://coursera.org/share/932a5bb68ab010aea6c0c96b84874c00" target="_blank">Coursera: Connect and Protect: Networks and Network Security</a></li>
+                <li><a href="https://coursera.org/share/d74a2b9b5d8a83b0aef6358a229aaa36" target="_blank">Coursera: Tools of the Trade: Linux and SQL</a></li>
+                <li><a href="https://coursera.org/share/7b826aad299ea609c085e2efd8b094d6" target="_blank">Coursera: Assets, Threats, and Vulnerabilities</a></li>
+                <li><a href="https://coursera.org/share/a99a81c87b8419f4b6d1ef6b5606b7de" target="_blank">Coursera: SQL Joins</a></li>
+                <li>Google Cybersecurity Professional Certificate</li>
+            </ul>
+        </section>
+
+        <!-- Contact section -->
+        <section id="contact" class="contact">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:Toby.Williams0924@gmail.com">Toby.Williams0924@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/tobywilliams0924/" target="_blank">linkedin.com/in/tobywilliams0924</a></p>
+        </section>
 
         <!-- Footer with contact information -->
         <footer>
