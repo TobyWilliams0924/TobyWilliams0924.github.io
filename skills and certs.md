@@ -28,4 +28,22 @@
         <section id="certifications" class="certifications">
             <h2>Certifications</h2>
             <ul>
-                <li><a href
+                <li><a href="https://coursera.org/share/d74a2b9b5d8a83b0aef6358a229aaa36" target="_blank">Coursera: Foundations of Cybersecurity</a></li>
+                <li><a href="https://coursera.org/share/845fb3102af41df9396903f67b6ceff9" target="_blank">Coursera: Play It Safe: Manage Security Risks</a></li>
+                <li><a href="https://coursera.org/share/932a5bb68ab010aea6c0c96b84874c00" target="_blank">Coursera: Connect and Protect: Networks and Network Security</a></li>
+                <li><a href="https://coursera.org/share/d74a2b9b5d8a83b0aef6358a229aaa36" target="_blank">Coursera: Tools of the Trade: Linux and SQL</a></li>
+                <li><a href="https://coursera.org/share/7b826aad299ea609c085e2efd8b094d6" target="_blank">Coursera: Assets, Threats, and Vulnerabilities</a></li>
+                <li><a href="https://coursera.org/share/a99a81c87b8419f4b6d1ef6b5606b7de" target="_blank">Coursera: SQL Joins</a></li>
+                <li>Google Cybersecurity Professional Certificate</li>
+            </ul>
+        </section>
+    </div>
+
+    <!-- Footer with contact information -->
+    <footer>
+        <p>&copy; 2024 Toby Williams | <a href="https://docs.google.com/document/d/1YLgS4WN_VnQpkX7N4kofu2EBBWoMq29D-HdfOHz5pIw/edit?usp=sharing" target="_blank">Download my resume</a></p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
