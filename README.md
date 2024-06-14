@@ -110,12 +110,12 @@
         <section id="certifications" class="certifications">
             <h2>Certifications</h2>
             <ul>
-                <li><a href="#cert1" class="modal-link" data-modal="modal7">Coursera: Foundations of Cybersecurity</a></li>
-                <li><a href="#cert2" class="modal-link" data-modal="modal8">Coursera: Play It Safe: Manage Security Risks</a></li>
-                <li><a href="#cert3" class="modal-link" data-modal="modal9">Coursera: Connect and Protect: Networks and Network Security</a></li>
-                <li><a href="#cert4" class="modal-link" data-modal="modal10">Coursera: Tools of the Trade: Linux and SQL</a></li>
-                <li><a href="#cert5" class="modal-link" data-modal="modal11">Coursera: Assets, Threats, and Vulnerabilities</a></li>
-                <li><a href="#cert6" class="modal-link" data-modal="modal12">Coursera: SQL Joins</a></li>
+                <li><a href="https://coursera.org/share/d74a2b9b5d8a83b0aef6358a229aaa36" target="_blank">Coursera: Foundations of Cybersecurity</a></li>
+                <li><a href="https://coursera.org/share/845fb3102af41df9396903f67b6ceff9" target="_blank">Coursera: Play It Safe: Manage Security Risks</a></li>
+                <li><a href="https://coursera.org/share/932a5bb68ab010aea6c0c96b84874c00" target="_blank">Coursera: Connect and Protect: Networks and Network Security</a></li>
+                <li><a href="https://coursera.org/share/d74a2b9b5d8a83b0aef6358a229aaa36" target="_blank">Coursera: Tools of the Trade: Linux and SQL</a></li>
+                <li><a href="https://coursera.org/share/7b826aad299ea609c085e2efd8b094d6" target="_blank">Coursera: Assets, Threats, and Vulnerabilities</a></li>
+                <li><a href="https://coursera.org/share/a99a81c87b8419f4b6d1ef6b5606b7de" target="_blank">Coursera: SQL Joins</a></li>
                 <li>Google Cybersecurity Professional Certificate</li>
             </ul>
         </section>
@@ -125,7 +125,7 @@
             <div class="modal-content">
                 <span class="close" data-modal="modal7">&times;</span>
                 <h2>Coursera: Foundations of Cybersecurity</h2>
-                <iframe src="https://coursera.org/share/d74a2b9b5d8a83b0aef6358a229aaa36" width="100%" height="400px"></iframe>
+                <p>View the certification on <a href="https://coursera.org/share/d74a2b9b5d8a83b0aef6358a229aaa36" target="_blank">Coursera</a>.</p>
             </div>
         </div>
 
@@ -133,7 +133,7 @@
             <div class="modal-content">
                 <span class="close" data-modal="modal8">&times;</span>
                 <h2>Coursera: Play It Safe: Manage Security Risks</h2>
-                <iframe src="https://coursera.org/share/845fb3102af41df9396903f67b6ceff9" width="100%" height="400px"></iframe>
+                <p>View the certification on <a href="https://coursera.org/share/845fb3102af41df9396903f67b6ceff9" target="_blank">Coursera</a>.</p>
             </div>
         </div>
 
@@ -141,7 +141,7 @@
             <div class="modal-content">
                 <span class="close" data-modal="modal9">&times;</span>
                 <h2>Coursera: Connect and Protect: Networks and Network Security</h2>
-                <iframe src="https://coursera.org/share/932a5bb68ab010aea6c0c96b84874c00" width="100%" height="400px"></iframe>
+                <p>View the certification on <a href="https://coursera.org/share/932a5bb68ab010aea6c0c96b84874c00" target="_blank">Coursera</a>.</p>
             </div>
         </div>
 
@@ -149,7 +149,7 @@
             <div class="modal-content">
                 <span class="close" data-modal="modal10">&times;</span>
                 <h2>Coursera: Tools of the Trade: Linux and SQL</h2>
-                <iframe src="https://coursera.org/share/d74a2b9b5d8a83b0aef6358a229aaa36" width="100%" height="400px"></iframe>
+                <p>View the certification on <a href="https://coursera.org/share/d74a2b9b5d8a83b0aef6358a229aaa36" target="_blank">Coursera</a>.</p>
             </div>
         </div>
 
@@ -157,7 +157,7 @@
             <div class="modal-content">
                 <span class="close" data-modal="modal11">&times;</span>
                 <h2>Coursera: Assets, Threats, and Vulnerabilities</h2>
-                <iframe src="https://coursera.org/share/7b826aad299ea609c085e2efd8b094d6" width="100%" height="400px"></iframe>
+                <p>View the certification on <a href="https://coursera.org/share/7b826aad299ea609c085e2efd8b094d6" target="_blank">Coursera</a>.</p>
             </div>
         </div>
 
@@ -165,7 +165,7 @@
             <div class="modal-content">
                 <span class="close" data-modal="modal12">&times;</span>
                 <h2>Coursera: SQL Joins</h2>
-                <iframe src="https://coursera.org/share/a99a81c87b8419f4b6d1ef6b5606b7de" width="100%" height="400px"></iframe>
+                <p>View the certification on <a href="https://coursera.org/share/a99a81c87b8419f4b6d1ef6b5606b7de" target="_blank">Coursera</a>.</p>
             </div>
         </div>
 
