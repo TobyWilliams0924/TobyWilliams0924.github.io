@@ -34,11 +34,12 @@ nav a {
     margin: 0 15px;
     text-decoration: none;
     font-size: 1.2em;
-    transition: color 0.3s;
+    transition: color 0.3s, transform 0.3s;
 }
 
 nav a:hover {
     color: #00ccff;
+    transform: scale(1.1);
 }
 
 .container {
@@ -57,7 +58,7 @@ section {
 section h2 {
     border-bottom: 2px solid #555;
     padding-bottom: 10px;
-    color: #00ccff; /* Blue tone from the image */
+    color: #00ccff;
 }
 
 .about-me img {
@@ -80,7 +81,13 @@ footer a {
 }
 
 a {
-    color: #00ccff; /* Blue tone from the image */
+    color: #00ccff;
+    transition: color 0.3s, transform 0.3s;
+}
+
+a:hover {
+    color: #00aaff;
+    transform: scale(1.1);
 }
 
 /* Modal Styles */
@@ -114,6 +121,7 @@ a {
     float: right;
     font-size: 28px;
     font-weight: bold;
+    transition: color 0.3s, transform 0.3s;
 }
 
 .close:hover,
@@ -121,6 +129,7 @@ a {
     color: #00ccff;
     text-decoration: none;
     cursor: pointer;
+    transform: scale(1.2);
 }
 
 .modal-image {
@@ -213,6 +222,12 @@ nav {
     border-radius: 5px;
     background-color: #333;
     color: #fff;
+    transition: border-color 0.3s;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+    border-color: #00ccff;
 }
 
 .contact-form button {
@@ -222,10 +237,12 @@ nav {
     background-color: #00ccff;
     color: #fff;
     cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
 }
 
 .contact-form button:hover {
     background-color: #00aaff;
+    transform: scale(1.1);
 }
 
 /* 404 Page */
